@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romainpro&show_icons=true&locale=en" alt="romainpro" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romainpro&" alt="romainpro" /></p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=romainpro)](https://github.com/ashutosh00710/github-readme-activity-graph)
