@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Romain</h1>
 <h3 align="left">Passionate web developer with a focus on HTML, CSS, and JavaScript. Currently expanding my skills with the Angular framework. My GitHub projects reflect my learning journey and practical experiences.
 
-I also have a basic understanding of Python and aim to enhance my proficiency in the language. I'm open to advice and suggestions to improve my Python skills.
-
-Excited to contribute to open-source projects and broaden my knowledge by collaborating with other developers. My goal is to gain a solid understanding of front-end technologies, particularly Angular, to create robust and scalable applications.
-
-If you have any questions or collaboration ideas, feel free to reach out. I'm always eager to learn and grow as a web developer.</h3>
+I also have a basic understanding of Python and aim to enhance my proficiency in the language. I'm open to advice and suggestions to improve my Python skills.</h3>
 
 <img align="center" alt="coding" width="900" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
 
