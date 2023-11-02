@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Romain</h1>
-<h3 align="left">Passionate web developer with a focus on HTML, CSS, and JavaScript. Currently expanding my skills with the React library. My GitHub projects reflect my learning journey and practical experiences.</h3>
+<h3 align="left">I'm Romain, a passionate web developer with a focus on HTML, CSS, and JavaScript. Currently, I'm expanding my skills with the React library, and my GitHub projects reflect my learning journey and practical experiences.
+</h3>
 
 <img align="center" alt="coding" width="900" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romainpro&label=Profile%20views&color=0e75b6&style=flat" alt="romainpro" /> </p>
